@@ -34,7 +34,7 @@ export default class App extends Component{
         const AboutMe=()=>{
         return (<div><p>Hello, I'm Abhiroj.</p>
             <p className="para">
-            I am a technology enthusiast who likes to learn stuff , implement and solve problems (one at a time ;). I have worked on projects based on <code> Java </code>, <code> Python </code>,& <code> JavaScript</code>. I am an avid-reader and a fan of  'Dan Brown' &nbsp; & &nbsp; 'Ayn Rand'.In my spare time,I like to play football & I also support Real Madrid FC.  
+            I currently work with <a href="https://www.adobe.com">Adobe</a> as SDE-2. I have worked on projects based on <code> Java </code>, <code> Python </code>,& <code> JavaScript</code>. I am an avid-reader and a fan of  'Dan Brown' &nbsp; & &nbsp; 'Ayn Rand'.In my spare time,I like to play football & I also support Real Madrid FC.  
             </p>
             <p className="para">
                 You can easily contact me here : <a id="someThing" title="JS required to view" onClick={()=>{
